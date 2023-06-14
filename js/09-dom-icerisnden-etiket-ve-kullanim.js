@@ -1,7 +1,7 @@
 // let title= document.getElementsByTagName("h2")
 
 let title = document.getElementById("title")
-title.innerHTML = "Degisin Bilgi"
+title.innerHTML = "Degisen Bilgi"
 console.log(title.innerHTML)
 
 
@@ -12,7 +12,7 @@ console.log(title.innerHTML)
 
 
 let link = document.querySelector("#kodluyoruzLink")
-link.innerHTML += " degisti."
+link.innerHTML += "degisti."
 link.style.color ="red"
 link.classList.add("btn")
 

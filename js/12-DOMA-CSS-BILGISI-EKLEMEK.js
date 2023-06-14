@@ -11,7 +11,7 @@ greeting.classList.add("new-info", "second-class", "third-class") //birden fazla
 
 greeting.classList.remove("new-info", "second-class")  //listeleri bu şekilde silebilirim.
 
-greeting.classList.add("")
+greeting.classList.add("ananın")
 
 
 console.log(greeting.classList)

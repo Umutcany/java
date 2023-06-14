@@ -1,6 +1,9 @@
 var ogrVizeNot = 5; // Bu kod satırını değiştiriniz. 
 var ogrFinalNot = 12; // Bu kod satırını değiştiriniz. 
 
+var ogrVizeNot=prompt("Vize Notunu Giriniz: ");
+var ogrFinalNot =prompt("Final Notunuzu Giriniz: ")
+
 var ogrOrtalama = (ogrVizeNot * 0.3) + (ogrFinalNot * 0.7);
 
 

@@ -33,7 +33,7 @@ console.log(email[14])
 // **********-1 gelirse aradığım ifade yoktur.
 
 // belli bir yere kadar al -> slice:
-let DOMAIN = email.slice(email.search("@") + 1 )
+let DOMAIN = email.slice(email.search("@") +1)
 console.log(DOMAIN)
 
 

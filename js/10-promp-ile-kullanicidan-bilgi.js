@@ -2,6 +2,7 @@
 
 
 let fullName = prompt("Lutfen adinizi Giriniz: ")
+
 let greeting = document.querySelector("#greeting")
 
 greeting.innerHTML = `
